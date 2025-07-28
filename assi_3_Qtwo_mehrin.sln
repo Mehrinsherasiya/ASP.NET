@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assi_3_Qtwo_mehrin", "assi_3_Qtwo_mehrin\assi_3_Qtwo_mehrin.csproj", "{3472C833-4852-47AD-A8FD-526644146453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3472C833-4852-47AD-A8FD-526644146453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3472C833-4852-47AD-A8FD-526644146453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3472C833-4852-47AD-A8FD-526644146453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3472C833-4852-47AD-A8FD-526644146453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {606520FA-D247-4F21-A79E-56C46ED8D471}
+	EndGlobalSection
+EndGlobal
