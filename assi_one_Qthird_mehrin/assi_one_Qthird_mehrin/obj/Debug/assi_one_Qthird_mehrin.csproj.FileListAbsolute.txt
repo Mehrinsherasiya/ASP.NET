@@ -1,0 +1,2 @@
+E:\mehrin\ASP.net\assi_one_Qthird_mehrin\assi_one_Qthird_mehrin\obj\Debug\assi_one_Qthird_mehrin.csproj.AssemblyReference.cache
+E:\mehrin\ASP.net\assi_one_Qthird_mehrin\assi_one_Qthird_mehrin\obj\Debug\assi_one_Qthird_mehrin.csproj.CoreCompileInputs.cache
